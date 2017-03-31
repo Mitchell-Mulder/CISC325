@@ -124,8 +124,6 @@
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrFPS.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrIntent.cs" />
      <Compile Include="Assets\fwall_text.cs" />
-     <Compile Include="Assets\left_wall_script.cs" />
-     <Compile Include="Assets\right_wall_script.cs" />
      <Compile Include="Assets\rotator.cs" />
      <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
      <None Include="Assets\PanoramaToCubemap\Documents\PanoramaToCubemap_en.txt" />
@@ -167,7 +165,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="Google.ProtocolBuffers">
- <HintPath>C:/Users/mitch_000/Dropbox/Uni/`CISC 325/Tutorial 1.2/Tutorial 1.2/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ <HintPath>C:/Users/mitch_000/Desktop/Tutorial 1.2/Tutorial 1.2/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
