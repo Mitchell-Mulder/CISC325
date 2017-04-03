@@ -123,8 +123,12 @@
      <Compile Include="Assets\GoogleVR\Scripts\UI\GvrReticlePointer.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrFPS.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrIntent.cs" />
+     <Compile Include="Assets\add.cs" />
      <Compile Include="Assets\fwall_text.cs" />
+     <Compile Include="Assets\likes.cs" />
      <Compile Include="Assets\rotator.cs" />
+     <Compile Include="Assets\searchMessenger.cs" />
+     <Compile Include="Assets\toText.cs" />
      <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
      <None Include="Assets\PanoramaToCubemap\Documents\PanoramaToCubemap_en.txt" />
      <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
